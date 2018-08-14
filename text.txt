@@ -13,6 +13,13 @@ Change Directory command
 > git remote (references to the repos not on your computer)
 > git remote add origin  (if u don't have a origin remote)
 > git pull (to save changes from remote repository to the local repo)
+	REMOVING a file
+> git rm file1.txt
+> git commit -m "remove file1.txt"
+ -- but if want to remove the file only from the Git repository 
+> git rm --cached file1.txt
+> git commit -m "remove file1.txt"
+> git push origin branch_name 
 
 
 Helpful links
