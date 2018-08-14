@@ -4,5 +4,9 @@ Change Directory command
 > git config --global user.name "Your Name"
 > git config --global user.email "youremail@domain.com"
 
-
+> git clone https://github.com/gauravmahal/Testgit.git (for cloning repository from git to comp. for first time)
+> git add text.txt (add file to the git)
+> git status (status of the git )
+> git commit -m "some comment" filename (to commit to the git)
+> git push -u origin master (user name)(push file to github account)
 
