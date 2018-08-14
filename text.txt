@@ -1,10 +1,5 @@
-This is text file after long time
-This is text file after long time
-This is text file after long time
-This is text file after long time
-This is text file after long time
-This is text file after long time
-This is text file after long time
-This is text file after long time
+Change Directory command 
+> cd /c
+> ls    (for knowing the files n directries in the current git directory)
 
-This is text file after long time
+
