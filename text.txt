@@ -12,3 +12,15 @@ Change Directory command
 > git push -u origin master (user name)(push file to github account)
 > git remote (references to the repos not on your computer)
 > git remote add origin  (if u don't have a origin remote)
+> git pull (to save changes from remote repository to the local repo)
+
+
+Helpful links
+-- for Basic Git commands	
+		https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html 
+
+-- for git training and tutorials
+		https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+
+-- for rgit resources
+		https://confluence.atlassian.com/bitbucketserver/git-resources-776639766.html
