@@ -1,2 +1,2 @@
 # Testgit
-This is for testing git
+This is for git learning repository
