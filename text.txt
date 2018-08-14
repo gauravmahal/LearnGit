@@ -1,6 +1,7 @@
 Change Directory command 
 > cd /c
 > ls    (for knowing the files n directries in the current git directory)
+> pwd  (current location)
 > git config --global user.name "Your Name"
 > git config --global user.email "youremail@domain.com"
 
@@ -9,4 +10,5 @@ Change Directory command
 > git status (status of the git )
 > git commit -m "some comment" filename (to commit to the git)
 > git push -u origin master (user name)(push file to github account)
-
+> git remote (references to the repos not on your computer)
+> git remote add origin  (if u don't have a origin remote)
